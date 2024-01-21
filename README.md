@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mawitGad
-- 👀 I’m interested leveraging the super power of technology to do good.
+- 👀 I’m interested in leveraging the super power of technology to do good.
 - 🌱 I’m currently learning more javascript libraries haha
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me? mawitgaddev@gmail.com
